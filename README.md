@@ -5,6 +5,7 @@
 Example application and CI/CD pipeline showing how to run a PHP Laravel project
 on Semaphore 2.0.
 
+
 ## Local project setup
 
 To setup the project locally, your local environment needs to meet common
